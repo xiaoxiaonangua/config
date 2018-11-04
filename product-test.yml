@@ -1,4 +1,4 @@
-env: test5
+env: test3
 spring:
   datasource:
     driver-class-name: com.mysql.jdbc.Driver
